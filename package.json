@@ -1,0 +1,19 @@
+{
+  "name": "give-anonymous-opinion",
+  "version": "1.0.0",
+  "description": "Give Opinions Anonymously",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "techjd",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.10"
+  }
+}
